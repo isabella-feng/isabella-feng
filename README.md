@@ -7,7 +7,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/isabella-feng/](https://www.linkedin.com/in/isabella-feng/)
 
-- ⚡ Fun fact **I study modern art history and I'm a musical theater enthusiast.**
+- ⚡ Fun fact **I also study modern art history and I'm a musical theater enthusiast.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
