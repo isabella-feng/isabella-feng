@@ -11,6 +11,8 @@
 
 - ⚡ Fun fact **I also study modern art history and I'm a musical theater enthusiast.**
 
+![GitHub last commit](https://img.shields.io/github/last-commit/isabella-feng/isabella-feng?style=for-the-badge)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/isabella-feng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="isabella-feng" height="30" width="40" /></a>
