@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Isabella Feng</h1>
-![GitHub last commit](https://img.shields.io/github/last-commit/isabella-feng/isabella-feng?style=for-the-badge)
 <h3 align="center">A CS student at Colby College</h3>
 <h4 align="center">Incoming technology consultant at <a href="https://www.pwc.com/gx/en/the-new-equation.html" target="blank"><img align="center" src="https://media-exp1.licdn.com/dms/image/C560BAQGXVAGC-MWyhA/company-logo_200_200/0/1654082497611?e=2147483647&v=beta&t=HA5NExZfLkm8DLOIKw92TBL6QXKt9EspVdBxdP4jE7w" alt="isabella-feng" height="50" width="50" /></a></h4>
+
+![GitHub last commit](https://img.shields.io/github/last-commit/isabella-feng/isabella-feng?style=for-the-badge)
 
 - 🔭 I’m currently working on **CS321 Software Engineering**
 
@@ -9,9 +10,9 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/isabella-feng/](https://www.linkedin.com/in/isabella-feng/)
 
-- ⚡ Fun fact **I also study modern art history and I'm a musical theater enthusiast.**
+- ⚡ Fun fact **I also study modern art history and I'm a musical theater enthusiast.** [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-![GitHub last commit](https://img.shields.io/github/last-commit/isabella-feng/isabella-feng?style=for-the-badge)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
